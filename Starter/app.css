@@ -30,7 +30,7 @@ body {
     color: white;
 }
 
-#mainNavBar .nav-link:hover{
+#mainNavBar .nav-link:hover {
     color: #ea1e2c;
     font-weight: 700;
 }
@@ -50,28 +50,25 @@ body {
    font-size: 2.8rem;
 }
 
-.navbar.scrolled{
+.navbar.scrolled {
 background: rgb(222,192,222);
 transition: 500ms;
 }
 
 @media (max-width: 992px) {
-    #headingGroup h1{
+    #headingGroup h1 {
         font-size: 2.8rem;
     }
-    
 }
 
 @media (min-width: 1129px) {
-    #headingGroup h1{
+    #headingGroup h1 {
         font-size: 3.2rem;
     }
-    
 }
 @media (min-width: 1473px) {
     #headingGroup h1{
         font-size: 4.2rem;
     }
-    
 }
 
